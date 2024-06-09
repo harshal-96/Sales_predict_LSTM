@@ -1,5 +1,3 @@
-### README: Sales Prediction Using LSTM
-
 ---
 
 ## Project Title: Sales Prediction Using LSTM
